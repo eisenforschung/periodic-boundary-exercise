@@ -2,5 +2,5 @@ channels:
 - conda-forge
 dependencies:
 - python =3.12
-- nglview
-- ase
+- nglview =3.1.2
+- ase =3.23.0
